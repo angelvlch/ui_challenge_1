@@ -1,0 +1,1 @@
+ D:\\flutter-projects\\ui_challenge_1\\.dart_tool\\flutter_build\\30fd4e46061aa5bce2a9cdbd2216e63e\\native_assets.yaml: 
